@@ -9,7 +9,7 @@ cd /home/ubuntu/my-aws-capstone-project
 apt install python3-pip -y
 apt-get install python3.7-dev default-libmysqlclient-dev -y
 pip3 install -r requirements.txt
-cd /home/ubuntu/my-aws-capstone-project/src
+cd /home/ubuntu/WRİTEGİTHUBREPONAME/src
 python3 manage.py collectstatic --noinput
 python3 manage.py makemigrations
 python3 manage.py migrate
