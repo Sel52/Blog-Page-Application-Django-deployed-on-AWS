@@ -1,1 +1,1 @@
-# -Blog-Page-Application-Django-deployed-on-AWS
+# Blog-Page-Application-Django-deployed-on-AWS
